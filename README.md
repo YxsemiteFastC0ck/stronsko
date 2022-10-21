@@ -1,1 +1,2 @@
 # stronsko
+witam pozdrawiam
